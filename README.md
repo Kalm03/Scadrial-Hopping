@@ -1,2 +1,2 @@
 # Mistbjorn
- Personal Game Project
+ Personal Game Project based on the Mistborn series by Brandon Sanderson
